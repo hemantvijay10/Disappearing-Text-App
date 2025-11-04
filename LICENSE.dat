@@ -1,0 +1,144 @@
+================================================================================
+DISAPPEARING TEXT APPLICATION
+================================================================================
+
+Author: Hemant Vijay
+Last Updated: 4-Nov-2025
+Version: 1.0
+
+================================================================================
+COURSE ATTRIBUTION
+================================================================================
+
+This project is part of an assignment for the "100 Days of Code" course by
+Angela Yu. Full credit for the project concept and requirements goes to
+Angela Yu.
+
+Course Details:
+Name: 100 Days of Code: The Complete Python Pro Bootcamp
+Instructor: Angela Yu
+Platform: Udemy
+Course URL: https://www.udemy.com/course/100-days-of-code/learn/practice/1251140#overview
+
+================================================================================
+THIRD PARTY LIBRARIES AND CREDITS
+================================================================================
+
+This application uses the following built-in Python libraries:
+
+1. tkinter
+   Description: Python's standard GUI (Graphical User Interface) library
+   License: Python Software Foundation License
+   Source: Built-in with Python
+   Usage: Creating the application window, text area, buttons, and all visual
+          components of the application
+   Credit: Python Software Foundation
+
+Note: tkinter is part of the Python standard library and does not require
+separate installation. It is available free of charge under the Python Software
+Foundation License.
+
+================================================================================
+LEGAL DISCLAIMER
+================================================================================
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IMPORTANT NOTICES:
+
+1. DATA LOSS WARNING
+   This application intentionally deletes text when the user stops typing for
+   a specified duration. This is the core functionality of the application.
+   Users should NOT rely on this application to save or preserve their work.
+
+2. NO LIABILITY
+   In no event shall the author (Hemant Vijay) be liable for any claim,
+   damages, or other liability, whether in an action of contract, tort, or
+   otherwise, arising from, out of, or in connection with the software or the
+   use or other dealings in the software.
+
+3. USE AT YOUR OWN RISK
+   Users acknowledge that they use this application at their own risk. The
+   author is not responsible for any data loss, work loss, or any other
+   damages that may occur from using this application.
+
+4. NOT RESPONSIBLE FOR MISUSE
+   The author is not responsible for any misuse of this application. This
+   application is intended solely as a writing exercise tool to help overcome
+   writer's block. Any other use is at the user's own discretion and risk.
+
+5. NO GUARANTEE OF FUNCTIONALITY
+   While efforts have been made to ensure the application works correctly on
+   Windows 11 Pro 64-bit and Ubuntu 24.04.3 LTS 64-bit, the author makes no
+   guarantee that the application will work on all systems or configurations.
+
+6. EDUCATIONAL PURPOSE
+   This application was created as part of a coding course assignment and is
+   intended primarily for educational and personal use.
+
+================================================================================
+USER RESPONSIBILITIES
+================================================================================
+
+By using this application, users agree to:
+
+1. Not hold the author liable for any data loss or damages
+2. Use the application responsibly and ethically
+3. Not use the application for any malicious purposes
+4. Understand that the application is designed to delete text as its primary
+   feature
+5. Save important work in other applications if preservation is needed
+6. Comply with all applicable laws and regulations in their jurisdiction
+
+================================================================================
+DISTRIBUTION AND MODIFICATION
+================================================================================
+
+This software is provided for educational purposes. Users are free to:
+- Use the application for personal, non-commercial purposes
+- Study the code to learn programming concepts
+- Modify the code for personal use
+
+Users must:
+- Retain all attribution notices to Angela Yu and the original course
+- Retain the author attribution (Hemant Vijay)
+- Not claim the original concept as their own work
+- Not use the application or code for commercial purposes without permission
+
+================================================================================
+CONTACT AND SUPPORT
+================================================================================
+
+This is an educational project and comes with no formal support. Users
+experiencing issues should refer to the README.md file for basic usage
+instructions.
+
+For course-related questions, please refer to the original course materials
+and instructor (Angela Yu) on Udemy.
+
+================================================================================
+ACKNOWLEDGMENTS
+================================================================================
+
+Special thanks to:
+- Angela Yu for creating the 100 Days of Code course and this project concept
+- The Python Software Foundation for the Python programming language and tkinter
+  library
+- The Udemy platform for hosting the course
+
+================================================================================
+VERSION HISTORY
+================================================================================
+
+Version 1.0 (4-Nov-2025)
+- Initial release
+- Basic disappearing text functionality
+- 5-second inactivity timer
+- Visual countdown display
+- Cross-platform support for Windows 11 and Ubuntu 24.04.3 LTS
+
+================================================================================
+END OF LICENSE AND LEGAL INFORMATION
+================================================================================
